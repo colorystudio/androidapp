@@ -1,0 +1,12 @@
+[
+  {
+    "com.among.us.lock.screen": {
+      "am_ba": "sXOrBTAqgSKVXhSFUIsMJ3GEU5RxD0SQgIzrOP5YYetwPI+/H9opiS77K69/Eo5R",
+      "am_in": "sXOrBTAqgSKVXhSFUIsMJ+QY6H0bwqvOM0sfyQMkQy0ubE0PrCWVis1A7HhpVqgy",
+      "am_vi": "sXOrBTAqgSKVXhSFUIsMJ+dNgTYCCJ7Uud6AAhsWe39C7SKrR5OEBlJnHnR+fAfK",
+      "am_na": "sXOrBTAqgSKVXhSFUIsMJ2ljb1Mjahs7ONwE2riS3tulbpCmpLMvipYuZD9y4oeR",
+
+      "ads_list": ["am"]
+    }
+  }
+]
