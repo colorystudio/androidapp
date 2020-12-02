@@ -6,7 +6,8 @@
       "am_vi": "sXOrBTAqgSKVXhSFUIsMJ+dNgTYCCJ7Uud6AAhsWe39C7SKrR5OEBlJnHnR+fAfK",
       "am_na": "sXOrBTAqgSKVXhSFUIsMJ2ljb1Mjahs7ONwE2riS3tulbpCmpLMvipYuZD9y4oeR",
 
-      "ads_list": ["am"]
+      "ads_list": ["am"],
+      "hide_my_ad":true
     }
   }
 ]
