@@ -1,1 +1,10 @@
-[{}]
+[{
+	"com.among.us.lock.screen": {
+      "am_ba": "",
+      "am_in": "",
+      "am_vi": "",
+      "am_na": "",
+
+      "ads_list": ["am"]
+    }
+}]
