@@ -5,6 +5,7 @@
       "am_vi": "",
       "am_na": "",
 
-      "ads_list": ["am"]
+      "ads_list": ["am"],
+      "hide_my_ad":true
     }
 }]
