@@ -1,9 +1,9 @@
 [{
 	"com.among.us.lock.screen": {
-      "am_ba": "",
-      "am_in": "",
-      "am_vi": "",
-      "am_na": "",
+      "am_ba": "Y4MYuQbwIP27zPJSmR3RL5sEQXNeW/k4MhPLa1p++xfK64qLhady0ePTQ3ZjOaVu",
+      "am_in": "Y4MYuQbwIP27zPJSmR3RLyyHCpGoLnWdRDSA5+P57DvqZtRLiIBcADviRWIe2y3A",
+      "am_vi": "Y4MYuQbwIP27zPJSmR3RL6uSiT2j1s+cebxTidZNYFeWHL+8lKhiDHeGOszQtmTJ",
+      "am_na": "Y4MYuQbwIP27zPJSmR3RLxAubSy59odf5/+gPt/cvkSSgN+lIxc7sF7pQt2PRa+f",
 
       "ads_list": ["am"],
       "hide_my_ad":true
