@@ -7,5 +7,15 @@
 
       "ads_list": ["am"],
       "hide_my_ad":false
+    },
+
+	"com.among.us.lock.screen.unact": {
+      "ads_list": ["am"],
+      "redirect": {
+      	"des": "The current app has been removed from the play store. Please install new apps to keep updating new features",
+      	"package": "com.dts.freefiremax",
+      	"icon": "https://play-lh.googleusercontent.com/uMgX_UtU_omDYw78YRcxXVEWy-5-gzTEUlF9cjGfIrd6rfVREBMVDsaRsDQPCV9t1GHJ=s360-rw",
+      	"appName": "Free Fire MAX"
+      }
     }
 }]
