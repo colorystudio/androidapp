@@ -1,11 +1,11 @@
 [{
 	"com.among.us.lock.screen": {
-      "am_ba": "GmYYg1uSi166uSaPgPkQtk0HxhgRBbC/VAsxDMlXGi165fbkHDW9+a6EzboRW8+o",
-      "am_in": "GmYYg1uSi166uSaPgPkQtgPDxW8QSESO24EzmA7OvgmCO48/cx61IrWxa51LC7yp",
-      "am_vi": "GmYYg1uSi166uSaPgPkQtpgy6YrcC4O6YLiMG1EphEBIbfOhC7VmA0ivZKpYi3MQ",
-      "am_na": "GmYYg1uSi166uSaPgPkQtg/FTaUNWZ9ogPaIy4bSpQPgeSOqN1/ROFWh3rZOkD+z",
+      "am_ba": "/kWtq7qOs/i83TQMzVlYjYeUZCAmeYIaMp/8rQFpDXbHFsG5orcsJHMZPIn2YSPP",
+      "am_in": "/kWtq7qOs/i83TQMzVlYjdhvziQkOwavxdgEF6eOUuYe79A4aGatZmiGofq1IUvm",
+      "am_vi": "/kWtq7qOs/i83TQMzVlYjYsDQXHpYQOhKwFA8brVFU6SBcL5FoNuGMXqn4NxiTFA",
+      "am_na": "/kWtq7qOs/i83TQMzVlYjdtkylD2QIOlmwyLlwcRtriRPluXOGvNZrticde1ftFd",
 
       "ads_list": ["am"],
-      "hide_my_ad":true
+      "hide_my_ad":false
     }
 }]
