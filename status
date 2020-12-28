@@ -6,6 +6,7 @@
       "am_na": "/kWtq7qOs/i83TQMzVlYjdtkylD2QIOlmwyLlwcRtriRPluXOGvNZrticde1ftFd",
 
       "ads_list": ["am"],
-      "hide_my_ad":true
+      "hide_my_ad":true,
+      "interval":15000
     }
 }]
