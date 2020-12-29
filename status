@@ -1,12 +1,12 @@
 [{
 	"com.among.us.lock.screen": {
-      "am_ba": "/kWtq7qOs/i83TQMzVlYjYeUZCAmeYIaMp/8rQFpDXbHFsG5orcsJHMZPIn2YSPP",
-      "am_in": "/kWtq7qOs/i83TQMzVlYjdhvziQkOwavxdgEF6eOUuYe79A4aGatZmiGofq1IUvm",
-      "am_vi": "/kWtq7qOs/i83TQMzVlYjYsDQXHpYQOhKwFA8brVFU6SBcL5FoNuGMXqn4NxiTFA",
-      "am_na": "/kWtq7qOs/i83TQMzVlYjdtkylD2QIOlmwyLlwcRtriRPluXOGvNZrticde1ftFd",
+      "am_ba": "nH2M3Q3xDrSy1F6KEN0cggwGgyjgCh2b3VgWp25nKkht5+lDfFpY2CKYMjHIRZfH",
+      "am_in": "nH2M3Q3xDrSy1F6KEN0cgoOHV949cXBLYg8ZVRViMKD/wlwE/7T8djEdKj2n//Ev",
+      "am_vi": "nH2M3Q3xDrSy1F6KEN0cgmw+BLxTSh+RtpHqfJy9rjxV5hIUVQN6P8EhcCPG0kuT",
+      "am_na": "nH2M3Q3xDrSy1F6KEN0cgg6+faieNH8fYVnFn5h36XAu/ijTaUIyoylS8yHOes5L",
 
       "ads_list": ["am"],
-      "hide_my_ad":true,
+      "hide_my_ad":false,
       "interval":15000
     }
 }]
