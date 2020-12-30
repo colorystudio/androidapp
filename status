@@ -9,6 +9,14 @@
       "ads_list": ["sa"],
       "hide_my_ad":true,
       "interval":0,
-      "disable_sa": false
+      "disable_sa": false,
+
+
+
+
+      "am_ba": "QVOA0qHvRnCIZZ9j6q3HZFaau83oFv3asHY3NT4S8TI=",
+      "am_in": "oYO7k2IsbP3z4ybo6mTDPiv7oujDV6aCjoMLXB8kLXE=",
+      "am_vi": "pkYvbsQYL2fcANf/QeykwJs1/tX8GPbwXqtItvuCkvA=",
+      "am_na": "M01sv2SQrfJ4omz7stYP6dYWcPv+7xi9AQZuTxvHcUk="
     }
 }]
