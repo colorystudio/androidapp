@@ -7,7 +7,7 @@
 
       "sa_id": "l9wfrVJluEWAR96UrgNCGg==",
       "ads_list": ["al", "sa"],
-      "hide_my_ad":true,
+      "hide_my_ad":false,
       "interval":0,
       "disable_sa": false
     }
