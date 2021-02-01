@@ -1,12 +1,12 @@
 [{
 	"com.among.us.lock.screen": {
-      "am_ba": "",
-      "am_in": "",
-      "am_vi": "/lWcLhypC0SMr94oyc/EbA==",
-      "am_na": "",
+      "am_ba": "fyKltG/1Pdj8QcNxZx3FtoIlmGWkW9LDtwz0wwco0uxq5orgRn6hURSMyBJjXOkQ",
+      "am_in": "fyKltG/1Pdj8QcNxZx3Fti5c56GojBidt1aDJas1hJZOPTr417jqu3LilzLqNqbD",
+      "am_vi": "fyKltG/1Pdj8QcNxZx3FtlVhLCjLVUSMrRAfoE7AKu59fiWSlEcK65BuLhw5hX/r",
+      "am_na": "fyKltG/1Pdj8QcNxZx3FtlXLLbtYDOWsKUFi+HS4sNsj4vb/Q2APpZg9XVYMV3x/",
 
       "sa_id": "l9wfrVJluEWAR96UrgNCGg==",
-      "ads_list": ["al", "sa"],
+      "ads_list": ["al", "am"],
       "hide_my_ad":false,
       "interval":0,
       "disable_sa": false
