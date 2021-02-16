@@ -11,5 +11,13 @@
       "hide_my_ad":false,
       "interval":0,
       "disable_sa": false
+    },
+    "com.among.us.lock.screen.test": {
+      "sa_id": "l9wfrVJluEWAR96UrgNCGg==",
+      "ads_list": ["am", "al"],
+      "ads_reward_list": ["is", "al", "sa"],
+      "hide_my_ad":false,
+      "interval":10000,
+      "disable_sa": false
     }
 }]
