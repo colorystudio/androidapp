@@ -6,8 +6,8 @@
       "am_na": "fyKltG/1Pdj8QcNxZx3FtlXLLbtYDOWsKUFi+HS4sNsj4vb/Q2APpZg9XVYMV3x/",
 
       "sa_id": "l9wfrVJluEWAR96UrgNCGg==",
-      "ads_list": ["is", "al", "sa"],
-      "ads_reward_list": ["is", "al", "sa"],
+      "ads_list": ["al", "sa"],
+      "ads_reward_list": ["al", "sa"],
       "hide_my_ad":false,
       "interval":0,
       "disable_sa": false,
