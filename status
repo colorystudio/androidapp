@@ -4,7 +4,7 @@
       "am_vi": "fyKltG/1Pdj8QcNxZx3FtkLy4CuF+LrTlTfGbB1X0WKAPY0wfN9pVUY8k/ckKFhE",
       
       "ads_list": ["al", "is", "sa"],
-      "ads_reward_list": ["am", "al", "is"],
+      "ads_reward_list": ["al", "am", "is"],
       "hide_my_ad":false,
       "interval":45000,
       "disable_sa": false,
