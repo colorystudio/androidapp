@@ -22,15 +22,15 @@
           "thumb": "thumb/theme2.jpg"
         },
         {
-          "theme_f": "theme/V9JSxWz.dat",
-          "theme_ver": 1,
-          "theme_length": 1,
+          "f": "theme/V9JSxWz.dat",
+          "ver": 1,
+          "length": 1,
           "thumb": "thumb/theme2.jpg"
         },
         {
-          "theme_f": "theme/V9JSxv.dat",
-          "theme_ver": 1,
-          "theme_length": 1,
+          "f": "theme/V9JSxv.dat",
+          "ver": 1,
+          "length": 1,
           "thumb": "thumb/theme4.jpg"
         }
       ],
