@@ -3,8 +3,8 @@
       "sa_id": "l9wfrVJluEWAR96UrgNCGg==",
 
       
-      "ads_list": ["am", "is", "sa"],
-      "ads_reward_list": ["am", "is", "sa"],
+      "ads_list": ["mp", "is", "sa"],
+      "ads_reward_list": ["mp", "is", "sa"],
       "hide_my_ad":false,
       "interval":15000,
       "disable_sa": false,
@@ -22,7 +22,7 @@
         },
         {
           "f": "theme/V9JSxv1.dat",
-          "ver": 1,
+          "ver": 2,
           "length": 1
         },
         {
