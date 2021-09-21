@@ -1,0 +1,38 @@
+[{
+    "com.among.us.lock.screen": {
+      "sa_id": "l9wfrVJluEWAR96UrgNCGg==",
+
+      
+      "ads_list": ["mp", "is", "sa"],
+      "ads_reward_list": ["mp", "is", "sa"],
+      "hide_my_ad":false,
+      "interval":15000,
+      "disable_sa": false,
+
+    "theme": [
+        {
+          "f": "",
+          "ver": 0,
+          "length": 0
+        },
+        {
+          "f": "theme/V9JSxU.dat",
+          "ver": 1,
+          "length": 1
+        },
+        {
+          "f": "theme/V9JSxU.dat",
+          "ver": 5,
+          "length": 1
+        },
+        {
+          "f": "theme/V9JSxv.dat",
+          "ver": 2,
+          "length": 1,
+          "thumb": "thumb/theme4.jpg"
+        }
+      ],
+
+      "bg":["bg/1614490168779_bg.jpg","bg/1614490168775_bg.jpg","bg/1614490168803_bg.jpg","bg/1614490168798_bg.jpg","bg/1614490168786_bg.jpg","bg/1614490168794_bg.jpg","bg/1614490168796_bg.jpg","bg/1614490168788_bg.jpg","bg/1614490168784_bg.jpg","bg/1614490168801_bg.jpg","bg/1614490168777_bg.jpg","bg/1614490168780_bg.jpg","bg/1614490168792_bg.jpg","bg/1614490168805_bg.jpg","bg/1614490168773_bg.jpg","bg/1614490168790_bg.jpg","bg/1614490168782_bg.jpg","bg/1614490168787_bg.jpg","bg/1614490168799_bg.jpg","bg/1614490168795_bg.jpg","bg/1614490168778_bg.jpg","bg/1614490168802_bg.jpg","bg/1614490168774_bg.jpg","bg/1614490168800_bg.jpg","bg/1614490168776_bg.png","bg/1614490168789_bg.jpg","bg/1614490168797_bg.jpg","bg/1614490168785_bg.jpg","bg/1614490168804_bg.jpg","bg/1614490168781_bg.jpg","bg/1614490168793_bg.jpg","bg/1614490168791_bg.jpg","bg/1614490168783_bg.jpg","bg/1614490168806_bg.jpg"]
+    }
+}]
