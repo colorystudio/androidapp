@@ -5,8 +5,8 @@
       "am_in": "1NAMZ8xVzfeBN8Cw4Dn+wgRjrPN4ktGp11rC0l96uheAZmDpa+vIO87sdHKVuFyT",
       "am_vi": "1NAMZ8xVzfeBN8Cw4Dn+wtSYadCJMvYVcUOcqdobGYjn6CuWH/X13/nHJ/xJlfPO",
       
-      "ads_list": ["am", "sa"],
-      "ads_reward_list": ["am", "sa"],
+      "ads_list": ["sa", "am"],
+      "ads_reward_list": ["sa", "am"],
       "hide_my_ad":false,
       "interval":15000,
       "disable_sa": false,
