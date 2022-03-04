@@ -2,11 +2,11 @@
 	"com.among.us.lock.screen": {
       "sa_id": "l9wfrVJluEWAR96UrgNCGg==",
       "am_ba": "",
-      "am_in": "1NAMZ8xVzfeBN8Cw4Dn+wgRjrPN4ktGp11rC0l96uheAZmDpa+vIO87sdHKVuFyT",
-      "am_vi": "1NAMZ8xVzfeBN8Cw4Dn+wtSYadCJMvYVcUOcqdobGYjn6CuWH/X13/nHJ/xJlfPO",
+      "am_in": "GmYYg1uSi166uSaPgPkQtqhYMZ1il3WPMu6ejqpTquHIxvklSOGMm077q4j77akK",
+      "am_vi": "GmYYg1uSi166uSaPgPkQtp7CMg/wopFCs4hMX6jQBvku2VlcKdecvtLsk9kjEyvM",
       
-      "ads_list": ["sa", "am"],
-      "ads_reward_list": ["sa", "am"],
+      "ads_list": ["am", "sa"],
+      "ads_reward_list": ["am", "sa"],
       "hide_my_ad":false,
       "interval":15000,
       "disable_sa": false,
