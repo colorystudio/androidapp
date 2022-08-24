@@ -4,11 +4,11 @@
       "is_id": "RzJCzURwgArCJSnWWntD9A==",
 
       "am_ba": "",
-      "am_in": "nLbHF7RxSVjkxY6N5HTccX02ZbEy3a/50qJQM3QEzBgRQIzQ9qmWrMEAmma6aZOT",
-      "am_vi": "nLbHF7RxSVjkxY6N5HTccWjpv/3JNj6G6AdRG+BKtg4cR1yG4RUQRAXSp2OCRiAd",
+      "am_in": "",
+      "am_vi": "",
       "am_na": "",
       
-      "ads_list": ["am", "is", "sa"],
+      "ads_list": ["is", "sa", "am"],
       "hide_my_ad":false,
       "interval":15000,
       "disable_sa": false,
