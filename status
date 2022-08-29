@@ -10,7 +10,7 @@
       
       "ads_list": ["am", "is", "sa"],
       "hide_my_ad":false,
-      "interval":15000,
+      "interval":15,
       "disable_sa": false,
 
         "theme": [
