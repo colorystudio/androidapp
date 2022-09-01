@@ -1,14 +1,5 @@
 [{
     "com.among.us.lock.screen": {
-      "sa_id": "l9wfrVJluEWAR96UrgNCGg==",
-
-      
-      "ads_list": ["mp", "is", "sa"],
-      "ads_reward_list": ["mp", "is", "sa"],
-      "hide_my_ad":false,
-      "interval":15000,
-      "disable_sa": false,
-
     "theme": [
         {
           "f": "",

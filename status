@@ -1,18 +1,5 @@
 [{
 	"com.among.us.lock.screen": {
-      "sa_id": "l9wfrVJluEWAR96UrgNCGg==",
-      "is_id": "RzJCzURwgArCJSnWWntD9A==",
-
-      "am_ba": "",
-      "am_in": "J9UvBUt6JGchagCtDbII/ZWf9zD+K8ikcXeYEo5YGpwMNL8d4CJaZ8/miVijNS+i",
-      "am_vi": "J9UvBUt6JGchagCtDbII/ZJL8Rd61nh796CnD5ZHpGT6ghwEWqQ86eELDgwVcIcU",
-      "am_na": "",
-      
-      "ads_list": ["am", "is", "sa"],
-      "hide_my_ad":false,
-      "interval":15,
-      "disable_sa": false,
-
         "theme": [
         {
           "f": "",
